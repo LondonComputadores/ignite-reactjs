@@ -12,3 +12,13 @@ Command line Shot:
 - yarn add babel-loader -D
 - yarn add webpack-cli -D
 - yarm webpack
+- /usr/bin/google-chrome ./public/index.html  // To open .html file on google-chrome
+- yarn add html-webpack-plugin -D
+- yarn add webpack-dev-server -D
+- yarn webpack serve
+- yarn add cross-env -D
+- yarn dev
+- yarn build
+- yarn add style-loader css-loader -D
+- yarn add sass-loader
+- yarn add node-sass
