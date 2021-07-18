@@ -22,3 +22,4 @@ Command line Shot:
 - yarn add style-loader css-loader -D
 - yarn add sass-loader
 - yarn add node-sass
+- yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
