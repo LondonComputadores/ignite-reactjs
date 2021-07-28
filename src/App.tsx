@@ -6,12 +6,12 @@ import './styles/global.scss';
 // V3
 //
 export function App() {
-    return (
-        <>
-          <RepositoryList />
-          <Counter />
-        </>
-    )
+  return (
+    <>
+      <RepositoryList />
+      <Counter />
+    </>
+  )
 }
 
 

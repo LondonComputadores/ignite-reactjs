@@ -23,3 +23,7 @@ Command line Shot:
 - yarn add sass-loader
 - yarn add node-sass
 - yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+- yarn add typescript -D
+- yarn tsc --init
+- yarn add @babel/preset-typescript -D
+- yarn add @types/react-dom -D
